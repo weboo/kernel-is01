@@ -28,4 +28,5 @@ obj-$(CONFIG_USB_RSPI)		+= rspiusb/
 obj-$(CONFIG_INPUT_MIMIO)	+= mimio/
 obj-$(CONFIG_TRANZPORT)		+= frontier/
 obj-$(CONFIG_EPL)		+= epl/
+obj-$(CONFIG_RAMZSWAP)		+= ramzswap/
 obj-$(CONFIG_ANDROID)		+= android/

@@ -91,6 +91,8 @@ source "drivers/staging/frontier/Kconfig"
 
 source "drivers/staging/epl/Kconfig"
 
+source "drivers/staging/ramzswap/Kconfig"
+
 source "drivers/staging/android/Kconfig"
 
 endif # !STAGING_EXCLUDE_BUILD
